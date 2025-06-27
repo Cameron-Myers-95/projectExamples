@@ -1,2 +1,2 @@
 # projectExamples
-This repository includes several programs I developed while studying at Georgia State University, along with a simple console-based Tic Tac Toe game I created independently to sharpen my Java skills. Each project demonstrates key programming concepts such as recursion, control flow, and user interaction.
+A collection of coursework and independent projects that reflect my journey as a developer and cybersecurity enthusiast. Highlights include a Java-based Tic Tac Toe game exploring recursion and user input, and a Python honeypot designed to simulate network services, capture unauthorized access attempts, and log activity for basic threat analysis.
